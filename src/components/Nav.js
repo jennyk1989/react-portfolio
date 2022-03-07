@@ -1,7 +1,7 @@
 import React from "react";
 import 'bulma/css/bulma.min.css';
 
-export default function Navbar() {
+export default function Nav() {
     return(
         <nav className="navbar is-dark is-fixed-top">
         {/* <!-- my name --> */}
