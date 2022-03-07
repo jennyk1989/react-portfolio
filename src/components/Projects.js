@@ -1,5 +1,8 @@
 import React from "react";
-import projectteam from '../assets/projectteamSS';
+import projectteam from '../assets/projectteamSS.png';
+import jsquiz from '../assets/javascriptquizss.png';
+import 'bulma/css/bulma.min.css';
+
 export default function Projects() {
     return(
         <section className="section" id="projects">
@@ -49,7 +52,7 @@ export default function Projects() {
                             </header>
                             <div className="card-content">
                                 <figure className="image">
-                                    <img src="./assets/images/javascriptquizss.png" alt="screenshot"/>
+                                    <img src={jsquiz} alt={'App screenshot'}/>
                                 </figure>
                             </div>
                             <footer className="card-footer has-background-light">
