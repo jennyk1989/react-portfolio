@@ -1,24 +1,23 @@
 import React from 'react';
-import './App.css';
 import 'bulma/css/bulma.min.css';
 import About from './components/About';
-import Contact from './components/Contact';
+// import Contact from './components/Contact';
 import Hero from './components/Hero';
-import Navbar from './components/Navbar';
+import Nav from './components/Nav';
 import Projects from './components/Projects';
-import Resume from './components/Resume';
+// import Resume from './components/Resume';
 
 function App() {
   return (
-    <main>
-      <Navbar />
-      <Hero />
-      <About />
-      <Contact />
-      <Projects />
-      <Resume />
-      <Contact />
-    </main>
+    <div>
+      <Nav />
+      <main>
+          <Hero />
+          <About />
+          <Projects />        
+      </main>
+    </div>
+    
   );
 }
 
