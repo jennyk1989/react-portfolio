@@ -21,7 +21,7 @@ function Nav() {
                     <span>
                         <i className="fas fa-address-card"></i>
                     </span>
-                    <span>&nbsp Contact Me </span>
+                    <span> Contact Me </span>
                 </a>
             </div>
         </div>
