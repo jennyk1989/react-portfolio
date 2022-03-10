@@ -17,7 +17,7 @@ export default function Projects() {
                         <div className="card m-3">
                             <header className="card-header has-background-dark">
                                 <p className="card-header-title"> 
-                                    <span className="has-text-white">Project Team &nbsp</span>
+                                    <span className="has-text-white">Project Team </span>
                                     <span className="tag m-1">HTML</span>
                                     <span className="tag">CSS</span>
                                     <span className="tag m-1">JavaScript</span>
@@ -44,7 +44,7 @@ export default function Projects() {
                         <div className="card m-3">
                             <header className="card-header has-background-dark">
                                 <p className="card-header-title"> 
-                                    <span className="has-text-white">JavaScript Quiz &nbsp</span>
+                                    <span className="has-text-white">JavaScript Quiz</span>
                                     <span className="tag m-1">HTML</span>
                                     <span className="tag">CSS</span>
                                     <span className="tag m-1">JavaScript</span>
