@@ -1,7 +1,7 @@
 import React from 'react'
 import 'bulma/css/bulma.min.css';
 
-export default function Contact() {
+export default function Footer() {
   return (
     <footer className="section has-background-light p-4" id="contact">
         <div className="container">
