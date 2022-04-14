@@ -137,7 +137,7 @@ export default function Projects() {
                     <div class="card m-3">
                         <header class="card-header has-background-dark">
                             <p class="card-header-title"> 
-                                <span class="has-text-white">Work Day Scheduler</span>
+                                <span class="has-text-white">JAM</span>
                                 <span class="tag m-1">HTML</span>
                                 <span class="tag">CSS</span>
                                 <span class="tag m-1">JavaScript</span>
