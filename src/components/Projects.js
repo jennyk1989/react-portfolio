@@ -4,6 +4,7 @@ import jsquiz from '../assets/javascriptquizss.png';
 import mjm from '../assets/mjm.png';
 import weatherdash from '../assets/weatherdash.png';
 import workday from '../assets/workday.png';
+import jam from '../assets/taskpg.png';
 import 'bulma/css/bulma.min.css';
 
 export default function Projects() {
@@ -144,7 +145,7 @@ export default function Projects() {
                         </header>
                         <div class="card-content">
                             <figure class="image">
-                                <img src={workday} alt={"APP screenshot"}/>
+                                <img src={jam} alt={"APP screenshot"}/>
                             </figure>
                         </div>
                         <footer class="card-footer has-background-light">
