@@ -131,6 +131,30 @@ export default function Projects() {
                         </footer>
                     </div>
                 </div>
+                {/* <!-- jam --> */}
+                <div class="container">
+                    <div class="card m-3">
+                        <header class="card-header has-background-dark">
+                            <p class="card-header-title"> 
+                                <span class="has-text-white">Work Day Scheduler</span>
+                                <span class="tag m-1">HTML</span>
+                                <span class="tag">CSS</span>
+                                <span class="tag m-1">JavaScript</span>
+                            </p>
+                        </header>
+                        <div class="card-content">
+                            <figure class="image">
+                                <img src={workday} alt={"APP screenshot"}/>
+                            </figure>
+                        </div>
+                        <footer class="card-footer has-background-light">
+                            {/* <!-- APP link --> */}
+                            <a href="https://jennyk1989.github.io/jam/" class="card-footer-item has-text-black">App Link</a>
+                            {/* <!-- github link --> */}
+                            <a href="https://github.com/jennyk1989/jam/" class="card-footer-item has-text-black">GithHub Code</a>
+                        </footer>
+                    </div>
+                </div>
             </div>
                 </div>
             </div>
