@@ -15,7 +15,7 @@ Portfolio built using React.
 Not Applicable 
 
 ## Usage
-https://jennyk1989.github.io/react-portfolio/ 
+https://jennykeene.github.io/react-portfolio/ 
 
 
 ## Licence 📃
