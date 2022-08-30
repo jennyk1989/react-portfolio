@@ -33,8 +33,8 @@ export default function Projects() {
                                 </figure>
                             </div>
                             <footer className="card-footer has-background-light">
-                                <a href="https://jennyk1989.github.io/project-team/" class="card-footer-item has-text-black">App Link</a>
-                                <a href="https://github.com/jennyk1989/project-team" class="card-footer-item has-text-black">GithHub Code</a>
+                                <a href="https://jennykeene.github.io/project-team/" class="card-footer-item has-text-black">App Link</a>
+                                <a href="https://github.com/jennykeene/project-team" class="card-footer-item has-text-black">GithHub Code</a>
                             </footer>
                         </div>
                     {/* <!-- weatherdash card --> */}
@@ -54,9 +54,9 @@ export default function Projects() {
                         </div>
                         <footer class="card-footer has-background-light">
                             {/* <!-- APP link --> */}
-                            <a href="https://jennyk1989.github.io/weather-dash/" class="card-footer-item has-text-black">App Link</a>
+                            <a href="https://jennykeene.github.io/weather-dash/" class="card-footer-item has-text-black">App Link</a>
                             {/* <!-- github link --> */}
-                            <a href="https://github.com/jennyk1989/weather-dash" class="card-footer-item has-text-black">GithHub Code</a>
+                            <a href="https://github.com/jennykeene/weather-dash" class="card-footer-item has-text-black">GithHub Code</a>
                         </footer>
                     </div>
                     {/* <!-- project 2 card --> */}
@@ -78,7 +78,7 @@ export default function Projects() {
                             {/* <!-- APP link --> */}
                             <a href="https://sheltered-woodland-56293.herokuapp.com/" class="card-footer-item has-text-black">App Link</a>
                             {/* <!-- github link --> */}
-                            <a href="https://github.com/jennyk1989/MJM-Task-Master" class="card-footer-item has-text-black">GithHub Code</a>
+                            <a href="https://github.com/jennykeene/MJM-Task-Master" class="card-footer-item has-text-black">GithHub Code</a>
                         </footer>
                     </div>            
                 </div>
@@ -103,9 +103,9 @@ export default function Projects() {
                         </div>
                         <footer className="card-footer has-background-light">
                             {/* <!-- APP link --> */}
-                            <a href="https://jennyk1989.github.io/javascript.quiz/" class="card-footer-item has-text-black">App Link</a>
+                            <a href="https://jennykeene.github.io/javascript.quiz/" class="card-footer-item has-text-black">App Link</a>
                             {/* <!-- github link --> */}
-                            <a href="https://github.com/jennyk1989/javascript.quiz" class="card-footer-item has-text-black">GithHub Code</a>
+                            <a href="https://github.com/jennykeene/javascript.quiz" class="card-footer-item has-text-black">GithHub Code</a>
                         </footer>
                     </div> 
                 {/* <!-- workday scheduler --> */}
@@ -126,9 +126,9 @@ export default function Projects() {
                         </div>
                         <footer class="card-footer has-background-light">
                             {/* <!-- APP link --> */}
-                            <a href="https://jennyk1989.github.io/workday-scheduler/" class="card-footer-item has-text-black">App Link</a>
+                            <a href="https://jennykeene.github.io/workday-scheduler/" class="card-footer-item has-text-black">App Link</a>
                             {/* <!-- github link --> */}
-                            <a href="https://github.com/jennyk1989/workday-scheduler" class="card-footer-item has-text-black">GithHub Code</a>
+                            <a href="https://github.com/jennykeene/workday-scheduler" class="card-footer-item has-text-black">GithHub Code</a>
                         </footer>
                     </div>
                 </div>
@@ -150,9 +150,9 @@ export default function Projects() {
                         </div>
                         <footer class="card-footer has-background-light">
                             {/* <!-- APP link --> */}
-                            <a href="https://jennyk1989.github.io/jam/" class="card-footer-item has-text-black">App Link</a>
+                            <a href="https://jennykeene.github.io/jam/" class="card-footer-item has-text-black">App Link</a>
                             {/* <!-- github link --> */}
-                            <a href="https://github.com/jennyk1989/jam/" class="card-footer-item has-text-black">GithHub Code</a>
+                            <a href="https://github.com/jennykeene/jam/" class="card-footer-item has-text-black">GithHub Code</a>
                         </footer>
                     </div>
                 </div>
