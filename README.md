@@ -26,5 +26,5 @@ Contributions are not being accepted at this time, thank you!
 None
 ## Questions 🖐️
 Questions or concerns? </br>
-Find me on GitHub: [jennyk1989](https://github.com/jennyk1989)
+Find me on GitHub: [jennykeene](https://github.com/jennykeene)
 
